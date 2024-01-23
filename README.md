@@ -2,7 +2,7 @@
 
 ## Version: 0.6.5a
 
-PycoFusion is a lightweight operating system written in MicroPython for the Raspberry Pi Pico W. It provides a platform for running user-written Python code, along with several built-in features to enhance functionality.
+PycoFusion is a lightweight open-source operating system written in MicroPython for the Raspberry Pi Pico W. It provides a platform for running user-written Python code, along with several built-in features to enhance functionality.
 
 ## Installation
 
@@ -87,4 +87,4 @@ PycoFusion is licensed under the MIT License.
 - Added support for running user-written Python code.
 - Introduced a built-in file manager.
 - Integrated networking capabilities.
-- Added support for [OLED I2C](www.amazon.com/dp/B06XRBTBTB/) displays.
+- Added support for [OLED I2C](https://www.amazon.com/dp/B06XRBTBTB/) displays.
