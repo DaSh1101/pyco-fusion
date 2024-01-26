@@ -1,5 +1,5 @@
 THIS IS A TEXT FILE TO HELP USERS DETERMINE WHAT GOES INTO THE "system.sys" FILE
-
+⌄⌄⌄⌄⌄⌄⌄⌄⌄⌄First-Line⌄⌄⌄⌄⌄⌄⌄⌄⌄⌄
 [LINE 0:] First Start: (True)
 [LINE 1:] WiFI on start: (False)
 [LINE 2:] SSD1306 OLED_i2c: (False)
