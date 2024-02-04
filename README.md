@@ -31,8 +31,9 @@ Installing PycoFusion is a straightforward process. Follow these steps:
 - Toggle to scan through a list of saved networks and auto-connect.
 
 ### 4. OLED I2C Display Support
-- Custom-made drivers to support OLED I2C displays.
-
+- Custom-made drivers to support ssd1306 OLED I2C displays.
+- [WARNING] These will no longer be supported in future versions, in favor of HDMI or LCD displays
+- You can modify the code to hearts desire though if you'd like to add support!
 ## Getting Started
 
 To get started with PycoFusion, follow the installation steps mentioned above. Once installed, explore the built-in features and customize your experience.
