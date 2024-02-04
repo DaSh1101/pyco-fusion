@@ -1,6 +1,6 @@
 # PycoFusion
 
-## Version: 0.6.5a
+## Version: v0.6.5-a
 
 PycoFusion is a lightweight open-source operating system written in MicroPython for the Raspberry Pi Pico W. It provides a platform for running user-written Python code, along with several built-in features to enhance functionality.
 
@@ -32,7 +32,7 @@ Installing PycoFusion is a straightforward process. Follow these steps:
 
 ### 4. OLED I2C Display Support
 - Custom-made drivers to support ssd1306 OLED I2C displays.
-- [WARNING] These will no longer be supported in future versions, in favor of HDMI or LCD displays
+- [WARNING] These will no longer be supported in future versions, in favor of HDMI and larger LCD displays
 - You can modify the code to hearts desire though if you'd like to add support!
 ## Getting Started
 
@@ -71,6 +71,7 @@ Configure networking settings and take advantage of the pre-loaded capabilities.
 ### OLED I2C Display
 Custom-made display drivers to take advantage of your display.
 `Currently only supports: ssd1306 oled i2c displays`
+These displays are no longer supported in future versions in favor of HDMI and larger LCD displays
 
 ### Contributing
 If you'd like to contribute to the development of PycoFusion, follow these steps:
