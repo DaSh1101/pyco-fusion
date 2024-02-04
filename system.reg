@@ -1,0 +1,17 @@
+THIS IS A TEXT FILE TO HELP USERS DETERMINE WHAT GOES INTO THE "system.reg" FILE, previousley "system.sys"
+I feel like I should make this clear, this file is pre-configured so you don't need to change these values unless desired
+This is pretty much a registry or properties file to keep all of the ssytem settings in place, modifying these will change what the values correspond to.
+
+Also, in the new version of PycoFusion releasing soon, there will be a way to configure these values inside of the os
+When inputing values in these lines, only put the variables you want, ex:
+for line 0 I want it to be True, so on line 0 it would look like this
+True
+and thats it, so put whats inside of the ()
+⌄⌄⌄⌄⌄⌄⌄⌄⌄⌄First-Line⌄⌄⌄⌄⌄⌄⌄⌄⌄⌄
+[LINE 0:] First Start: (True)
+[LINE 1:] WiFI on start: (False)
+[LINE 2:] SSD1306 OLED_i2c: (False)
+[LINE 3:] Username: (Dash1101)
+[LINE 4:] Version: ([v0.8.5-a])
+[LINE 5:] HDMI: (True)
+[LINE 7:] gpLCDbreakout: (False)
