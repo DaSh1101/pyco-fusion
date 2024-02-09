@@ -1,4 +1,7 @@
 # PycoFusion
+# MOVING!
+PycoFusion is [moving](https://github.com/DaSh1101/RPCortex), the reason why is because this OS is written Python for the RPICO, now the os is going to be in c++ for any rp2040 processor. All source code for the MicroPython version will remain up for a while.
+Also, v0.8.5-a base coce will be uploaded, it was in a template stage and all I needed to do was add the commands, but I don't want to waste any time in Python anymore. It was incredibly easy and simple to use, but I needed to make it faster...
 
 ## Version: v0.6.5-a
 
